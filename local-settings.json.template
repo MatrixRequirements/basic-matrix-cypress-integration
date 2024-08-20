@@ -1,0 +1,6 @@
+{
+    "env": {
+        "mxSpecToken": "<API Token for <instance key>.matrixreq.com>",
+    },
+    "e2e": {}
+}
